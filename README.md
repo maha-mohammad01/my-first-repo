@@ -1,7 +1,7 @@
-my name is maha mohammad
-I live in Jordan
-im 26 years old
-i have 5 sisters 
-I prefer drinking coffee
-var hw = "Hello World!"
-alert(hw);
+- my name is maha mohammad
+- I live in Jordan
+- im 26 years old
+- i have 5 sisters 
+- I prefer drinking **coffee** **tea**
+- var hw = "Hello World!" alert(hw);
+- Do you know how to solve this question? $-b \pm \sqrt{b^2 - 4ac} \over 2a$
